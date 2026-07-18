@@ -167,31 +167,32 @@ streamlit run app.py
 
 ## Home Page
 
-![Home](images/home.png)
+![Home Page](home.png)
+
 
 ---
 
 ## Prediction Page
 
-![Prediction](images/prediction.png)
+![Prediction](prediction.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
 ## Patient Records
 
-![Records](images/records.png)
+![Records](records.png)
 
 ---
 
 ## Review Page
 
-![Review](images/review.png)
+![Review](review.png)
 
 ---
 
